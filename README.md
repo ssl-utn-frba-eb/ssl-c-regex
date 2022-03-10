@@ -1,4 +1,4 @@
-# C Skeleton 
+# Ejemplos simples de Regex
 
 Estos son ejemplos simples de regex en C estos incluyen
 
